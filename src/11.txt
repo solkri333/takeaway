@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Merry Hentai Christmas</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #121212;
+            color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+        }
+
+        header {
+            background-color: rgba(0, 0, 0, 0.6); /* Transparent black for header */
+            color: #ff4081;
+            text-align: center;
+            padding: 20px;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 3rem;
+            font-weight: bold;
+        }
+
+        section {
+            padding: 40px;
+            background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent dark background */
+            max-width: 900px;
+            margin: 20px auto;
+            border-radius: 8px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+        }
+
+        h2 {
+            color: #ff4081;
+            font-size: 2rem;
+            margin-top: 20px;
+        }
+
+        p {
+            font-size: 1.2rem;
+            line-height: 1.6;
+            color: #bbb;
+        }
+
+        .intro {
+            font-size: 1.4rem;
+            color: #ccc;
+            margin-bottom: 20px;
+        }
+
+        a {
+            color: #ff4081;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .footer {
+            background-color: rgba(0, 0, 0, 0.8);
+            color: #bbb;
+            text-align: center;
+            padding: 20px;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Merry Hentai Christmas</h1>
+    </header>
+
+    <section>
+        <p class="intro">Today is Christmas Day. The end of 2024 is coming soon, and it’s been an eventful year not just for the world in general, but for Hentai as well.</p>
+        <p>Whatever you decide to do with your day, enjoy it to the fullest and don’t hesitate to do the things you actually want to do instead of finding ways not to.</p>
+    </section>
+
+
+</body>
+</html>

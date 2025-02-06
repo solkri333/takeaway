@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hottest Anime Girls</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+        }
+        .container {
+            max-width: 1100px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #d9534f;
+            padding-bottom:40px;
+        }
+        h2 {
+            color: #5bc0de;
+            border-bottom: 2px solid #5bc0de;
+            padding-bottom: 5px;
+        }
+        .anime-img {
+            width: 100%;
+            height: auto;
+            border-radius: 10px;
+            margin-top: 10px;
+        }
+        .anime {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>11 Of The Hottest Anime Girls You Need To See</h1>
+        
+        <div class="anime">
+            <h2>1. Masane Amaha (Witchblade)</h2>
+            <p>Masane Amaha is the protagonist of Witchblade. An underrated anime series you won’t hear people singing about.</p>
+            <p>“Sexy” looks aside, she’s the kind of woman who will do whatever it takes for her child. And to do the right thing.</p>
+        </div>
+        
+        <div class="anime">
+            <h2>2. Erza Scarlet (Fairy Tail)</h2>
+            <p>Erza is another character with a burning determination and a feisty attitude. She’s the definition of “morals” and won’t stand for anything less than what she expects.</p>
+        </div>
+        
+        <div class="anime">
+            <h2>3. Rangiku Matsumoto (Bleach)</h2>
+            <p>Rangiku might just be a supporting character in the Bleach series. But that doesn’t change how hot she is as an anime character.</p>
+        </div>
+
+        <div class="anime">
+            <h2>4. Celica Arfonia (Rokudenashi)</h2>
+            <p>Celica Arfonia is the definition of “good looks” and intelligence, blended into one character.</p>
+        </div>
+        
+        <div class="anime">
+            <h2>5. Shiori Shinomiya (Sakura Quest)</h2>
+            <p>Shiori is a gentle flower. Too kind to bring you harm or even get on your bad side.</p>
+        </div>
+
+        <div class="anime">
+            <h2>6. Erina Nakiri (Food Wars)</h2>
+            <p>Erina Nakiri, the “gods tongue” and ruthlessly skilled character from Food Wars.</p>
+        </div>
+
+        <div class="anime">
+            <h2>7. Ichiko Sakura (Good Luck Girl)</h2>
+            <p>Ichiko Sakura is obviously drawn for the purpose of fan service. It’s clear by her design, and that’s the direction the comedy takes anyway.</p>
+        </div>
+
+        <div class="anime">
+            <h2>8. Evergreen (Fairy Tail)</h2>
+            <p>Evergreen can be a handful in the Fairy Tail universe. But really – she’s just got standards.</p>
+        </div>
+
+        <div class="anime">
+            <h2>9. Yoruichi Shihoin (Bleach)</h2>
+            <p>Yoruichi is a hottie no matter how you look at it. And she’s one of the few black female characters who’s somewhat famous.</p>
+        </div>
+
+        <div class="anime">
+            <h2>10. Momo Yaoyorozu (My Hero Academia)</h2>
+            <p>Momo is one of the hottest female characters from My Hero Academia. You can call it fan service if you want.</p>
+        </div>
+
+        <div class="anime">
+            <h2>11. Iris Cannary (Violet Evergarden)</h2>
+            <p>Iris Cannary has one of the nicest (and non-fanservice) designs as far as I see it.</p>
+        </div>
+    </div>
+</body>
+</html>

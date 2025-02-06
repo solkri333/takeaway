@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hentai Body Types</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #121212;
+            color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+        }
+
+        header {
+            background-color: rgba(0, 0, 0, 0.7); /* Dark header */
+            color: #ff4081;
+            text-align: center;
+            padding: 20px;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 3rem;
+            font-weight: bold;
+        }
+
+        section {
+            padding: 40px;
+            background-color: rgba(0, 0, 0, 0.8); /* Dark background for content */
+            max-width: 900px;
+            margin: 20px auto;
+            border-radius: 8px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+        }
+
+        h2 {
+            color: #ff4081;
+            font-size: 2rem;
+            margin-top: 20px;
+        }
+
+        p {
+            font-size: 1.2rem;
+            line-height: 1.6;
+            color: #bbb;
+        }
+
+        .intro {
+            font-size: 1.4rem;
+            color: #ccc;
+            margin-bottom: 20px;
+        }
+
+        .list-item {
+            margin-bottom: 20px;
+        }
+
+        .footer {
+            background-color: rgba(0, 0, 0, 0.8);
+            color: #bbb;
+            text-align: center;
+            padding: 20px;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+
+        a {
+            color: #ff4081;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Hentai Body Types: The Most COMMON You’re Bound To See</h1>
+    </header>
+
+    <section>
+        <p class="intro">Hentai body types are familiar to most people who:</p>
+        <ul>
+            <li>Watch it</li>
+            <li>Know about it</li>
+            <li>See the memes</li>
+            <li>Or otherwise, watch anime in general</li>
+        </ul>
+        <p>Compared to anime, there is more range, diversity, shapes, and sizes in hentai. Let’s talk about the most common body types you’re bound to come across in various shows, genres, and levels of nudity! Here’s a list:</p>
+
+        <div class="list-item">
+            <h2>1. Oversized Tiddies</h2>
+            <p>Anime has its humor, comedy, and jokes when it comes to the “oversized” tiddies seen in many ecchi or fanservice shows. But it’s taken to an extreme with hentai.</p>
+        </div>
+
+        <div class="list-item">
+            <h2>2. Coca Cola Bottle Figure</h2>
+            <p>This body type is common in hentai, especially with MILFs or semi-adult characters. Big hips, slim waist, and stacked in the upper area define this figure.</p>
+        </div>
+
+        <div class="list-item">
+            <h2>3. Petite</h2>
+            <p>Petite women in hentai often resemble those from East Asia. These characters may be misjudged as much younger than they are, leading to controversy.</p>
+        </div>
+
+        <div class="list-item">
+            <h2>4. Massive Booty</h2>
+            <p>Where would hentai be without big booty women? The exaggerated proportions take this fetish to the next level.</p>
+        </div>
+
+        <div class="list-item">
+            <h2>5. Realistic and True to Life</h2>
+            <p>Not all hentai exaggerates body types. Some, like vanilla hentai, feature women whose body types reflect the more realistic and natural appearance seen in real life.</p>
+        </div>
+
+        <div class="list-item">
+            <h2>6. Smol</h2>
+            <p>Smol girls, often referred to as “Lolis” in certain contexts, are a controversial body type in hentai, designed to look much younger than their actual age.</p>
+        </div>
+
+        <div class="list-item">
+            <h2>7. BBW</h2>
+            <p>Big beautiful women, or BBW, are commonly featured in hentai, especially among MILFs or fantasy characters like elves and monster girls.</p>
+        </div>
+    </section>
+
+
+</body>
+</html>

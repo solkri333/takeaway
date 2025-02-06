@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sex Toys Guide</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fff;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+
+        header {
+            background-color: #222;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        header h1 {
+            margin: 0;
+        }
+
+        main {
+            padding: 20px;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        h2 {
+            color: #444;
+        }
+
+        ul {
+            padding-left: 20px;
+        }
+
+        li {
+            margin: 10px 0;
+        }
+
+        section {
+            margin-bottom: 30px;
+        }
+
+        .note {
+            font-weight: bold;
+            color: #E67E22;
+        }
+
+        .important {
+            color: #C0392B;
+        }
+
+        footer {
+            background-color: #222;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+
+        footer a {
+            color: #E67E22;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Guide to Sex Toys: Types, Safety, and Where to Buy</h1>
+    </header>
+    
+    <main>
+        <section>
+            <h2>Types of Sex Toys</h2>
+            <p>There are lots of different sex toys – objects that people use during sex or masturbation to increase pleasure. It is not uncommon for people to own and use sex toys. As long as you are using them safely, they can be a healthy addition to your sex life. Here are some different types of toys:</p>
+            <ul>
+                <li>Vibrators</li>
+                <li>Dildos</li>
+                <li>Anal toys (beads or plugs)</li>
+                <li>Sleeves</li>
+                <li>Penis rings</li>
+                <li>Pumps</li>
+                <li>Harnesses</li>
+                <li>And more!</li>
+            </ul>
+            <p class="note">Visit the Planned Parenthood website to learn more about the various types of sex toys.</p>
+        </section>
+
+        <section>
+            <h2>Where to Buy Sex Toys</h2>
+            <p>When considering where to buy sex toys, there are both online and in-person stores with reputable and safe options. A trusted source should be able to provide you with clear information about the toy, whether it’s a website or a physical store. Here are some options:</p>
+            <ul>
+                <li>Show World (in-person store in Rochester)</li>
+                <li>Target (both in person and online)</li>
+                <li>Adam and Eve (online)</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Sex Toy Safety</h2>
+            <p>It's crucial to ensure the safe use of sex toys to protect yourself and others. Below are some important safety tips to follow:</p>
+            <ul>
+                <li class="important">If using with a partner, always clean the sex toy before sharing to prevent the spread of STIs. Using a condom on the toy can also help.</li>
+                <li class="important">When using toys in the anus, be sure to use plenty of lubricant. Also, ensure that toys have a wide base to avoid them getting stuck.</li>
+                <li>Use water-based lubricant, especially with silicone toys, as silicone-based lube can damage them.</li>
+                <li>Be cautious with porous materials like jelly rubber, PVC, or TPR, as they absorb germs more easily. Always clean or use a condom on such toys.</li>
+                <li>Be sure to sanitize your toys before and after each use. Clean them according to instructions, but generally, a mild soap wash is recommended.</li>
+            </ul>
+        </section>
+    </main>
+</body>
+</html>

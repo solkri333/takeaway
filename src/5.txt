@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Top 11 Male OnlyFans Creators</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #fff; /* White background */
+      color: #333; /* Dark text for contrast */
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #000; /* Black header */
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+      font-size: 2rem;
+    }
+    main {
+      padding: 40px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    h1 {
+      font-size: 2.5rem;
+      text-align: center;
+      color: #d12f2f; /* Darker color for title */
+      margin-bottom: 30px;
+    }
+    .creator {
+      background-color: #f7f7f7; /* Light grey background for each creator */
+      margin-bottom: 20px;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+    .creator-content h2 {
+      font-size: 1.8rem;
+      color: #000; /* Black for creator names */
+      margin-bottom: 10px;
+    }
+    .creator-content p {
+      font-size: 1.1rem;
+      line-height: 1.6;
+      color: #666; /* Light grey text for descriptions */
+    }
+    .creator-content .price {
+      font-size: 1.2rem;
+      color: #e91e63; /* Pink for subscription price */
+      font-weight: bold;
+    }
+    .creator-content .link {
+      font-size: 1rem;
+      color: #007bff;
+      text-decoration: none;
+    }
+    .creator-content .link:hover {
+      text-decoration: underline;
+    }
+    footer {
+      background-color: #000;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>The Top 11 Male OnlyFans Creators</h1>
+  </header>
+  <main>
+    <div class="creator">
+      <div class="creator-content">
+        <h2>1. “THE KING OF ONLY FANS”</h2>
+        <p><strong>Age:</strong> N/A<br>
+           <strong>Subscription Fee:</strong> N/A<br>
+           <strong>Estimated Earnings:</strong> N/A<br>
+           <strong>Subscribers:</strong> N/A<br>
+           <strong>Content Type:</strong> Known for high-quality adult content and strong connection with fans.</p>
+      </div>
+    </div>
+
+    <div class="creator">
+      <div class="creator-content">
+        <h2>2. NakedGamer</h2>
+        <p><strong>Age:</strong> 28<br>
+           <strong>Subscription Fee:</strong> <span class="price">$12.99/month</span><br>
+           <strong>Estimated Earnings:</strong> $15,000/month<br>
+           <strong>Subscribers:</strong> 6,000+<br>
+           <strong>Content Type:</strong> Gaming and adult content combined to create an entertaining experience.</p>
+        <a href="https://www.onlyfans.com/nakedgamer" class="link">Visit NakedGamer's OnlyFans</a>
+      </div>
+    </div>
+
+    <div class="creator">
+      <div class="creator-content">
+        <h2>3. Jakipz</h2>
+        <p><strong>Age:</strong> 25<br>
+           <strong>Subscription Fee:</strong> <span class="price">$9.99/month</span><br>
+           <strong>Estimated Earnings:</strong> $20,000/month<br>
+           <strong>Subscribers:</strong> 7,500+<br>
+           <strong>Content Type:</strong> Personal stories and engaging adult content.</p>
+        <a href="https://www.onlyfans.com/jakipz" class="link">Visit Jakipz's OnlyFans</a>
+      </div>
+    </div>
+
+    <div class="creator">
+      <div class="creator-content">
+        <h2>4. Hatts17</h2>
+        <p><strong>Age:</strong> 27<br>
+           <strong>Subscription Fee:</strong> <span class="price">$10/month</span><br>
+           <strong>Estimated Earnings:</strong> $10,000/month<br>
+           <strong>Subscribers:</strong> 5,000+<br>
+           <strong>Content Type:</strong> Artistic erotica combined with storytelling.</p>
+        <a href="https://www.onlyfans.com/hatts17" class="link">Visit Hatts17's OnlyFans</a>
+      </div>
+    </div>
+    <div class="creator">
+      <div class="creator-content">
+        <h2>5. Leo</h2>
+        <p><strong>Age:</strong> 24<br>
+           <strong>Subscription Fee:</strong> <span class="price">$14.99/month</span><br>
+           <strong>Estimated Earnings:</strong> $18,000/month<br>
+           <strong>Subscribers:</strong> 6,500+<br>
+           <strong>Content Type:</strong> Sultry charisma mixed with high-quality adult content.</p>
+        <a href="https://www.onlyfans.com/leo" class="link">Visit Leo's OnlyFans</a>
+      </div>
+    </div>
+
+    <div class="creator">
+      <div class="creator-content">
+        <h2>6. Jayden Rembacher</h2>
+        <p><strong>Age:</strong> 23<br>
+           <strong>Subscription Fee:</strong> <span class="price">$9.99/month</span><br>
+           <strong>Estimated Earnings:</strong> $12,000/month<br>
+           <strong>Subscribers:</strong> 5,500+<br>
+           <strong>Content Type:</strong> Cinematic adult content with visually pleasing aesthetics.</p>
+        <a href="https://www.onlyfans.com/jaydenrembacher" class="link">Visit Jayden's OnlyFans</a>
+      </div>
+    </div>
+
+    <div class="creator">
+      <div class="creator-content">
+        <h2>7. Monster Twink</h2>
+        <p><strong>Age:</strong> 22<br>
+           <strong>Subscription Fee:</strong> Free<br>
+           <strong>Estimated Earnings:</strong> Through tips and pay-per-view content.<br>
+           <strong>Subscribers:</strong> 20,000+<br>
+           <strong>Content Type:</strong> Freemium model, offering free content with premium content available for purchase.</p>
+        <a href="https://www.onlyfans.com/monstertwink" class="link">Visit Monster Twink's OnlyFans</a>
+      </div>
+    </div>
+
+    <div class="creator">
+      <div class="creator-content">
+        <h2>8. Jakub Stefano</h2>
+        <p><strong>Age:</strong> 30<br>
+           <strong>Subscription Fee:</strong> <span class="price">$15/month</span><br>
+           <strong>Estimated Earnings:</strong> $25,000/month<br>
+           <strong>Subscribers:</strong> 7,800+<br>
+           <strong>Content Type:</strong> Fitness-focused adult content for those who appreciate both physical health and steamy visuals.</p>
+        <a href="https://www.onlyfans.com/jakubstefano" class="link">Visit Jakub's OnlyFans</a>
+      </div>
+    </div>
+
+    <div class="creator">
+      <div class="creator-content">
+        <h2>9. Tomtompics</h2>
+        <p><strong>Age:</strong> 29<br>
+           <strong>Subscription Fee:</strong> <span class="price">$11.99/month</span><br>
+           <strong>Estimated Earnings:</strong> $13,000/month<br>
+           <strong>Subscribers:</strong> 5,800+<br>
+           <strong>Content Type:</strong> High-quality photography with a mix of eroticism and visual art.</p>
+        <a href="https://www.onlyfans.com/tomtompics" class="link">Visit Tomtompics's OnlyFans</a>
+      </div>
+    </div>
+
+    <div class="creator">
+      <div class="creator-content">
+        <h2>10. Nick</h2>
+        <p><strong>Age:</strong> 26<br>
+           <strong>Subscription Fee:</strong> <span class="price">$9.99/month</span><br>
+           <strong>Estimated Earnings:</strong> $11,000/month<br>
+           <strong>Subscribers:</strong> 5,200+<br>
+           <strong>Content Type:</strong> Authentic, real-life content that builds a personal connection with fans.</p>
+        <a href="https://www.onlyfans.com/nick" class="link">Visit Nick's OnlyFans</a>
+      </div>
+    </div>
+
+    <div class="creator">
+      <div class="creator-content">
+        <h2>11. Jackson & Maddy</h2>
+        <p><strong>Jackson's Age:</strong> 25<br>
+           <strong>Maddy's Age:</strong> 24<br>
+           <strong>Subscription Fee:</strong> <span class="price">$12.99/month</span><br>
+           <strong>Estimated Earnings:</strong> $19,000/month<br>
+           <strong>Subscribers:</strong> 7,000+<br>
+           <strong>Content Type:</strong> Couples' content with palpable chemistry, offering a mix of intimacy and raw passion.</p>
+        <a href="https://www.onlyfans.com/jacksonmaddy" class="link">Visit Jackson & Maddy's OnlyFans</a>
+      </div>
+    </div>
+
+  </main>
+</body>
+</html>

@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #121212;
+            color: #fff;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+        h1 {
+            color: #ff4081;
+            text-align: center;
+            padding-bottom: 40px;
+        }
+        h2 {
+            color: #ffeb3b;
+        }
+        .anime {
+            background: #1e1e1e;
+            padding: 15px;
+            margin-bottom: 10px;
+            border-radius: 5px;
+        }
+        .anime img {
+            width: 100%;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>30+ Best Uncensored Anime To Watch (Gore + Ecchi 2024 Update)</h1>
+
+        <div class="anime">
+            <h2>11. Cyberpunk: Edgerunners</h2>
+            <p>Winning Crunchyroll’s Anime of the Year Award in 2023, Cyberpunk: Edgerunners is a post-apocalyptic anime with stunning animation and thought-provoking themes.</p>
+            <p>The story follows David, a street kid trying to survive in a brutal world by becoming an Edgerunner—a cybernetic mercenary. With its intense action, dark themes, and a mix of gore and lewdness, this anime is a must-watch for fans of uncensored content.</p>
+        </div>
+
+        <div class="anime">
+            <h2>10. Highschool DxD</h2>
+            <p>The king of ecchi anime! Highschool DxD is packed with action, comedy, and steamy moments, making it a top pick for fans of the genre.</p>
+            <p>The story follows Issei Hyodo, a high school student who is resurrected as a devil after being killed by a fallen angel. Now serving under the beautiful demon Rias Gremory, Issei embarks on a journey filled with battles, romance, and hilarious misunderstandings.</p>
+        </div>
+
+        <div class="anime">
+            <h2>9. Harem in the Labyrinth of Another World</h2>
+            <p>This anime pushes boundaries with its softcore elements, making fans wonder why it's not classified as *h*ntai.*</p>
+            <p>Michio Kaga finds himself transported to a fantasy world where he can earn money and build his own harem. Featuring submissive demi-human girls, steamy bath scenes, and plenty of fan service, this one is for the true ecchi lovers.</p>
+        </div>
+
+        <div class="anime">
+            <h2>8. Mnemosyne</h2>
+            <p>A dark, psychological anime filled with gore and mature themes, Mnemosyne follows Rin Asougi, an immortal private investigator constantly hunted by deadly forces.</p>
+            <p>This anime is filled with brutal torture scenes, explicit moments, and a twisted storyline that will leave you disturbed yet intrigued.</p>
+        </div>
+
+        <div class="anime">
+            <h2>7. To Love Ru: Darkness</h2>
+            <p>One of the most popular ecchi anime of all time, *To Love Ru: Darkness* takes fan service to the next level.</p>
+            <p>The story follows Rito Yuki as he gets caught in a whirlwind of alien princesses, seductive encounters, and chaotic misunderstandings. If you love guilty pleasure anime, this is for you!</p>
+        </div>
+
+        <div class="anime">
+            <h2>6. GANTZ</h2>
+            <p>A mix of hardcore gore and ecchi, *GANTZ* keeps you on the edge of your seat with its intense, unpredictable story.</p>
+            <p>Two high school students die in an accident but wake up in a mysterious room, where a sphere called GANTZ forces them into deadly survival missions. Packed with brutal violence and explicit moments, this anime is not for the faint-hearted.</p>
+        </div>
+
+        <div class="anime">
+            <h2>5. Golden Boy</h2>
+            <p>One of the funniest ecchi anime ever made, Golden Boy is a classic that blends comedy with fan service perfectly.</p>
+            <p>Kentaro, a wandering student, takes on different jobs across Japan, getting himself into ridiculous (and steamy) situations with beautiful women. A must-watch for lovers of ecchi comedy.</p>
+        </div>
+
+        <div class="anime">
+            <h2>4. Shigurui</h2>
+            <p>If you’re looking for pure gore and violence, *Shigurui* delivers one of the most intense samurai stories ever animated.</p>
+            <p>Set in Japan’s Edo period, it follows two rival samurai locked in a brutal blood feud. The anime is infamous for its gruesome scenes and psychological horror elements.</p>
+        </div>
+
+        <div class="anime">
+            <h2>3. Testament of the New Sister Devil</h2>
+            <p>For fans of *Highschool DxD*, this anime delivers even more ecchi goodness.</p>
+            <p>Basara Tojo suddenly finds himself with two new stepsisters, Mio and Maria, who turn out to be a demon and a succubus! Through a strange turn of events, he becomes their "master," leading to countless risqué situations.</p>
+        </div>
+
+        <div class="anime">
+            <h2>2. Interspecies Reviewers</h2>
+            <p>One of the most controversial anime of all time, *Interspecies Reviewers* is a hilarious and shameless ride through a world where all species can legally visit brothels.</p>
+            <p>The story follows a group of adventurers reviewing different species’ brothels, making it one of the most outrageous anime ever made. If you want *true* uncensored content, this is it!</p>
+        </div>
+
+        <div class="anime">
+            <h2>1. Kite</h2>
+            <p>*Kite* is a dark, disturbing revenge story packed with explicit and mature content.</p>
+            <p>Sawa, an orphaned assassin, is used as a tool by corrupt officials. As she carries out her deadly missions, she plots her escape and revenge. This anime is one of the most infamous titles due to its extreme content.</p>
+        </div>
+    </div>
+</body>
+</html>
