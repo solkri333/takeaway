@@ -1,21 +1,21 @@
 import { useParams } from "react-router-dom";
 import { useNavigate } from "react-router-dom";
 import React, { useState, useEffect } from "react";
-import myText from "./0.txt";
-import myText1 from "./1.txt";
-import myText2 from "./2.txt";
-import myText3 from "./3.txt";
-import myText4 from "./4.txt";
-import myText5 from "./5.txt";
-import myText6 from "./6.txt";
-import myText7 from "./7.txt";
-import myText8 from "./8.txt";
-import myText9 from "./9.txt";
-import myText10 from "./10.txt";
-import myText11 from "./11.txt";
-import myText12 from "./12.txt";
-import myText13 from "./13.txt";
-import myText14 from "./14.txt";
+import myText from "./f.txt";
+import myText1 from "./f.txt";
+import myText2 from "./f.txt";
+import myText3 from "./f.txt";
+import myText4 from "./f.txt";
+import myText5 from "./f.txt";
+import myText6 from "./f.txt";
+import myText7 from "./f.txt";
+import myText8 from "./f.txt";
+import myText9 from "./f.txt";
+import myText10 from "./f.txt";
+import myText11 from "./f.txt";
+import myText12 from "./f.txt";
+import myText13 from "./f.txt";
+import myText14 from "./f.txt";
 import f from "./f.txt"
 import './style.css'
 
