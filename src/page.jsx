@@ -1,4 +1,4 @@
-import { useParams } from "react-router-dom";
+zimport { useParams } from "react-router-dom";
 import { useNavigate } from "react-router-dom";
 import React, { useState, useEffect } from "react";
 import myText from "./0.txt";
@@ -132,7 +132,7 @@ function Page() {
       </header>
       <div className="title"></div>
       <div
-        dangerouslySetInnerHTML={{ __html: f }}
+        dangerouslySetInnerHTML={{ __html: text }}
       />
       </div>
     );
