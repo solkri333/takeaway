@@ -16,6 +16,7 @@ import myText11 from "./11.txt";
 import myText12 from "./12.txt";
 import myText13 from "./13.txt";
 import myText14 from "./14.txt";
+import f from "./f.txt"
 import './style.css'
 
 function Page() {
@@ -27,7 +28,7 @@ function Page() {
   const [text, setText] = useState("");
   useEffect(() => {
     if (id === "1") {
-      fetch(myText)
+      fetch(f)
         .then((response) => response.text())
         .then((data) => setText(data))
         .catch((error) => console.error("Error loading the file:", error));
@@ -131,7 +132,7 @@ function Page() {
       </header>
       <div className="title"></div>
       <div
-        dangerouslySetInnerHTML={{ __html: text }}
+        dangerouslySetInnerHTML={{ __html: f }}
       />
       </div>
     );
