@@ -30,8 +30,6 @@ fetch(f)
       <div
         dangerouslySetInnerHTML={{ __html: text }}
       />
-
-      </div>
       <footer style={{ height: "50px" }}></footer>
     </div>
   );
