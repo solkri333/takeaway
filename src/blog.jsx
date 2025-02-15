@@ -5,6 +5,8 @@ import { useNavigate } from "react-router-dom";
 import f from "./f.txt"
 
 
+
+export default function BlogPage() {
 const [text, setText] = useState("");
 
 
