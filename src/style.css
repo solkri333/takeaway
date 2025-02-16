@@ -321,5 +321,6 @@ body {
   }
 
 .unique-class {
+    display: flex;
     padding-top: 100px;
 }
