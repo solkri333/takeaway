@@ -2,20 +2,10 @@ import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import "./style.css";
 import { useNavigate } from "react-router-dom";
-import f from "./f.txt"
 
 
 
 export default function BlogPage() {
-const [text, setText] = useState("");
-
-
-useEffect(() => {
-fetch(f)
-        .then((response) => response.text())
-        .then((data) => setText(data))
-        .catch((error) => console.error("Error loading the file:", error));
-},[]);
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-700 text-white" id="blog-page">
@@ -28,10 +18,6 @@ fetch(f)
           </ul>
         </nav>
       </header>
-      
-      <div
-        dangerouslySetInnerHTML={{ __html: text }}
-      />
 
             <a className="unique-class" href="https://txxx.tube/videos/20660585/250213-i4/?promo=47026" target="_blank">Click</a>
             <a className="unique-class" href="https://videovoyeurhit.com/videos/360947/two-european-female-slaves-and-publi-with-steve-holmes-antonio-ross-and-lyen-parker/?promo=47026" target="_blank">Click</a>
