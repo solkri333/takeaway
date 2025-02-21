@@ -91,6 +91,18 @@ export default function BlogPage() {
       </header>
 
       <div className="container mx-auto mt-20 p-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" id="blog-list">
+        <div className="Links">
+            <a className="unique-class" href="https://txxx.tube/videos/20660585/250213-i4/?promo=47026" target="_blank">Click</a>
+            <a className="unique-class" href="https://videovoyeurhit.com/videos/360947/two-european-female-slaves-and-publi-with-steve-holmes-antonio-ross-and-lyen-parker/?promo=47026" target="_blank">Click</a>
+            <a className="unique-class" href="https://videomanysex.com/video/3147939/poke-her/?promo=47026" target="_blank">Click</a>
+            <a className="unique-class" href="https://videoxshemale.com/videos/1149329/full-bodied-booty-tranzvr/?promo=47026" target="_blank">Click</a>
+            <a className="unique-class" href="https://senzuri.tube/videos/10283067/01d1322-a-mature-wife-is-vaginal-cum-shot-while-a-young-man-straddles-a-cock-that-can-not-suppress-excitement_07354/?promo=47026" target="_blank">Click</a>
+            <a className="unique-class" href="https://videopornl.com/videos/3564183/love-crystale-max-cortes-in-education-for-this-too-nasty-bitch-mmm100/?promo=47026" target="_blank">Click</a>
+            <a className="unique-class" href="https://videohotmovs.com/videos/12843561/we-cant-get-enough-of-aurora-jolies-big-asses2/?promo=47026" target="_blank">Click</a>
+            <a className="unique-class" href="https://videovjav.com/videos/870909/japanese-261ara-553-limited-scene/?promo=47026" target="_blank">Click</a>
+            <a className="unique-class" href="https://videotubepornclassic.com/videos/1204357/all-the-pussy-you-want-to-make-you-enjoy-5-spoken/?promo=47026" target="_blank">Click</a>
+                  </div>
+
         {displayedBlogs.map(blog => (
           <motion.div key={blog.id} whileHover={{ scale: 1.01 }} className="blog-card">
             <div className="flex bg-white text-black rounded-2xl shadow-lg overflow-hidden transition duration-300 hover:bg-gray-200 list-content"
