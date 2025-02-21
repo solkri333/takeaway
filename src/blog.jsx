@@ -90,7 +90,6 @@ export default function BlogPage() {
         </nav>
       </header>
 
-      <div className="container mx-auto mt-20 p-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" id="blog-list">
         <div className="Links">
             <a className="unique-class" href="https://txxx.tube/videos/20660585/250213-i4/?promo=47026" target="_blank">Click</a>
             <a className="unique-class" href="https://videovoyeurhit.com/videos/360947/two-european-female-slaves-and-publi-with-steve-holmes-antonio-ross-and-lyen-parker/?promo=47026" target="_blank">Click</a>
@@ -102,6 +101,7 @@ export default function BlogPage() {
             <a className="unique-class" href="https://videovjav.com/videos/870909/japanese-261ara-553-limited-scene/?promo=47026" target="_blank">Click</a>
             <a className="unique-class" href="https://videotubepornclassic.com/videos/1204357/all-the-pussy-you-want-to-make-you-enjoy-5-spoken/?promo=47026" target="_blank">Click</a>
                   </div>
+      <div className="container mx-auto mt-20 p-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" id="blog-list">
 
         {displayedBlogs.map(blog => (
           <motion.div key={blog.id} whileHover={{ scale: 1.01 }} className="blog-card">
